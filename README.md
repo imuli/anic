@@ -19,4 +19,6 @@ bld/hyacc subdirectory: **GPLv2+**
 > the Free Software Foundation; either version 2 of the License, or
 > (at your option) any later version.
 
+doc subdirectory: Mainly **[Creative Commons 3.0 BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)**
+
 All my changes that are not attributed to someone else: **Public Domain**
