@@ -17,6 +17,8 @@
 #include <stdint.h>
 #include <string.h>
 #include <limits.h>
+#define __STDC_FORMAT_MACROS
+#include <inttypes.h>
 
 using std::cin;
 using std::cout;

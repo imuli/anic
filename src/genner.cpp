@@ -217,7 +217,7 @@ WordTree64::~WordTree64() {}
 string WordTree64::toString(unsigned int tabDepth) const {
 	string acc("W64[");
 	char tempS[3];
-	sprintf(tempS, "%08llX", data);
+	sprintf(tempS, "%08"PRIx64, data);
 	acc += tempS;
 	acc += ']';
 	return acc;
