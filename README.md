@@ -1,5 +1,7 @@
 # anic
-Compiler for the dead language ANI.
+*Incomplete* Compiler for the dead language ANI.
+
+**This compilier does not produce code.**
 
 It appears to have been abandoned for about four and a half years before I found it.
 It is a fascinating language and I hope to integrate some of it's better ideas into flow.
